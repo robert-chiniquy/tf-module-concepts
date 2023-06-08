@@ -1,0 +1,7 @@
+*.tfstate*
+omg*
+*-disaster
+.terraform
+.terraform.lock*
+.DS_Store
+*.dot
